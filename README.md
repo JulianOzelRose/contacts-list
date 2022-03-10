@@ -29,8 +29,8 @@ You will be building a linked list. Make sure to keep track of both the head and
 
 Ex. of PrintContactNode() output:
 
-Name: Roxanne Hughes
-Phone number: 443-555-2864
+        Name: Roxanne Hughes
+        Phone number: 443-555-2864
 
 
 (3) In main(), prompt the user for three contacts and output the user's input. Create three ContactNodes and use the nodes to build a linked list. (2 pts)

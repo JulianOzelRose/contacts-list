@@ -1,5 +1,5 @@
 /***********************************************************************************************
- *   Author:      Julian R.
+ *   Author:      Julian Rose
  *   File:        ContactNode.cpp
  *   Course:      CS 7B
  *   Assignment:  Project 2A: Contacts List

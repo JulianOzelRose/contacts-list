@@ -1,5 +1,4 @@
 # contacts-list
-
 9.18 LAB: Contacts List
 
 You will be building a linked list. Make sure to keep track of both the head and tail nodes.
